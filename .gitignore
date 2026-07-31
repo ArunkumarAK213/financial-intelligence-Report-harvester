@@ -1,0 +1,11 @@
+*_Institutional_Report_*
+*_Disclosure_Documents_*
+*.pdf
+*.xlsx
+*.csv
+*.png
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
